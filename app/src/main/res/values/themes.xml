@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Dio_Inter_App" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FA3E02</item>
+        <item name="colorPrimaryDark">#FA3E02</item>
+
+        <item name="colorSecondary">#FA3E02</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+</resources>

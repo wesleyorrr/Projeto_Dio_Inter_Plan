@@ -1,0 +1,2 @@
+rootProject.name = "Dio_Inter_App"
+include ':app'

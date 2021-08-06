@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Inter</string>
+    <string name="label_new_task"> Criar Inter Tarefas </string>
+    <string name="label_date">Data</string>
+    <string name="label_hour">Hora</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_tasks">Planeje suas Ideias no Inter</string>
+    <string name="label_description_new_task">Nova Tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+</resources>
